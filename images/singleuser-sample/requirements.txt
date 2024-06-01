@@ -334,3 +334,13 @@ webencodings==0.5.1
     #   tinycss2
 websocket-client==1.8.0
     # via jupyter-server
+pandas
+numpy
+scipy
+dask
+pyjanitor
+openpyxl
+xlrd
+xlwt
+ipywidgets
+ipyleaflet
